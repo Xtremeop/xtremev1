@@ -43,5 +43,5 @@ toilet -f term -F border:gay -t 'Also support :@Xtremegamingvdo' | lolcat -a -d 
 toilet -f term -F gay '#EXITING IN 5 SECONDS' 
 toilet -f term -F metal:border 'Now Apply Memory Antiban Lobby !' 
 sleep 5 
-am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
+am start -n com.rekoo.pubgm/com.epicgames.ue4.SplashActivity
 exit
