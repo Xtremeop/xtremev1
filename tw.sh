@@ -23,9 +23,9 @@ sleep 3
 neofetch | lolcat -a -d 3 
 echo"" 
 toilet -f term -F metal " PATCHING IN PROGRESS WAIT :-) " 
-sudo cp /data/data/com.termux/files/home/PCZV1/game_patch_0.19.0.13901.pak /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
-sudo cp /data/data/com.termux/files/home/PCZV1/game_patch_0.19.0.13900.pak /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
-sudo cp /data/data/com.termux/files/home/PCZV1/core_patch_0.19.0.13900.pak /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+sudo cp /data/data/com.termux/files/home/xtremev1/game_patch_0.19.0.13901.pak /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+sudo cp /data/data/com.termux/files/home/xtremev1/game_patch_0.19.0.13900.pak /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
+sudo cp /data/data/com.termux/files/home/xtremev1/core_patch_0.19.0.13900.pak /storage/emulated/0/Android/data/com.rekoo.pubgm/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
 sleep 5 
 toilet -f mono12 'DONE' | lolcat -a -d 10 
 toilet -f mini -F gay 'READ CAREFULLY:' 
